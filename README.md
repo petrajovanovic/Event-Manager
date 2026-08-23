@@ -11,7 +11,7 @@ The project is focused on applying core object-oriented programming principles t
 The project uses an object-oriented design with clear responsibilities for each part of the application.
 
 ```text
-                    Event RS
+                    Event-Manager
                        |
         ┌──────────────┼──────────────┐
         │              │              │
