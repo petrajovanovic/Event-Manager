@@ -95,26 +95,7 @@ git clone <repository-url>
 A typical application flow looks like this:
 
 ```text
-                    Start Application
-                           |
-                           ▼
-                    Login / Register
-                           |
-                           ▼
-                     Select Role
-                           |
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-           Member       Organizer     Validator
-              |            |            |
-              ▼            ▼            ▼
-        Search Events   Create Event  Validate Ticket
-              |            |            |
-              ▼            ▼            ▼
-        Purchase Ticket Manage Event  Activate Ticket
-              |
-              ▼
-        View Purchased Tickets
+     ![Image description](login_workflow.png)
 ```
 # Future Development
 
