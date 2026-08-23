@@ -94,9 +94,7 @@ git clone <repository-url>
 
 A typical application flow looks like this:
 
-```text
-     ![Log-in flow](images/login_workflow.png)
-```
+![Login Workflow](./images/login_workflow.png)
 # Future Development
 
 Future development could expand the application with more advanced features and technologies.
