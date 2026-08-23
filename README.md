@@ -92,7 +92,7 @@ git clone <repository-url>
 ```
 ## Application Flow
 
-A typical application flow looks like this:
+Example of Log In flow
 
 ![Login Workflow](./images/login_workflow.png)
 # Future Development
